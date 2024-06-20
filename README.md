@@ -29,12 +29,16 @@ client will have a proxy of the server's port and in that way we can estabilish 
 -- To start server
 
 cd server
+
 npm i
+
 npm start
 
 -- To Start client
 
 cd client
+
 npm i
+
 npm start
 
